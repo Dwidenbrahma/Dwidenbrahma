@@ -12,6 +12,7 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 - **Programming Languages:** C++, Python
 - **Web Development:** HTML, CSS, JavaScript (including React)
 - **Backend Development:** Node.js, Express.js
+- **Data Base:** SQL, MONGODB
 
 ## 📈 GitHub Stats
 
