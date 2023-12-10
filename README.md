@@ -16,7 +16,7 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DwidenBrahma&show_icons=true&theme=radical)](https://github.com/DwidenBrahma)
+[![Your GitHub Stats](![Visitors](https://profile-counter.glitch.me/Dwidenbrahma/count.svg))
 
 ## 📂 Projects
 
