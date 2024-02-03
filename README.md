@@ -27,7 +27,8 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 
 ##### Technologies Used
 - HTML, CSS, JavaScript, REST API
-- [Project Link](https://github.com/Dwidenbrahma/react-dictionary/)
+- [Project Link1](https://github.com/Dwidenbrahma/react-dictionary/)
+- [Project Link2](https://github.com/Dwidenbrahma/thala-checker/)
 
 ...
 
