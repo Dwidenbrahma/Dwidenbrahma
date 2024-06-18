@@ -14,9 +14,6 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 - **Backend Development:** Node.js, Express.js
 - **Database:** SQL, MONGODB
 
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dwidenbrahma)
 
 
 ## 📂 Projects
