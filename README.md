@@ -1,50 +1,40 @@
-# Hi there! 👋
-
-I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
+# Hi there! 👋  
+I'm **Dwiden Brahma**, a passionate coder from **Kokrajhar, Assam**.
 
 ## 🚀 About Me
-
-- 🔭 I’m a Postgraduate Student at [NIT, WARANGAL].
-- I love to code!
+- 🔭 **Postgraduate Student at [NIT, Warangal](https://www.nitw.ac.in/)**.
+- 💻 I love to code and explore new technologies!
 
 ## 🔧 Technologies & Tools
-
 - **Programming Languages:** C++, Python
-- **Web Development:** HTML, CSS, JavaScript.
-- **Frame Work:** React, Bootsrap, Flask
-- **Backend Development:** Node.js, Express.js, flask
-- **Database:** SQL, MONGODB, MySQL, Oracle
-
-
+- **Web Development:** HTML, CSS, JavaScript
+- **Frameworks:** React, Bootstrap, Flask
+- **Backend Development:** Node.js, Express.js, Flask
+- **Databases:** SQL, MongoDB, MySQL, Oracle
 
 ## 📂 Projects
 
-#### [Rock-Papper-Scissors]
+### [Rock-Paper-Scissors](https://dwidenbrahma.github.io/rockpapperscissor/)
+- A classic Rock-Paper-Scissors game built with React.
+- **Technologies Used:** React, HTML, CSS
 
-- A Classic Rock-Paper-Scissors Game.
-## [Link](https://dwidenbrahma.github.io/rockpapperscissor/) Rock papper Scissor
-
-#### Technologies Used
-# React, HTML, CSS.
-
-#### [Basic-React-Dictionary]
-
+### [Basic React Dictionary](https://github.com/Dwidenbrahma/react-dictionary/)
 - A simple React application that allows users to search for word definitions using the Dictionary API.
+- **Technologies Used:** React, HTML, CSS, JavaScript, REST API
 
-##### Technologies Used
-- HTML, CSS, JavaScript, REST API
-- [Project Link1](https://github.com/Dwidenbrahma/react-dictionary/)
-- [Project Link2](https://github.com/Dwidenbrahma/thala-checker/)
+### [Thala Checker](https://github.com/Dwidenbrahma/thala-checker/)
+- A project that checks the status of "Thala" in a cricket match.
+- **Technologies Used:** React, HTML, CSS, JavaScript
 
-...
+## 📊 GitHub Stats
+
+![Dwiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwidenbrahma&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dwiden/)
-- Email: [dwidwnbrahmaa222@gmail.com]
+- **LinkedIn:** [Dwiden's LinkedIn Profile](https://www.linkedin.com/in/dwiden/)
+- **Email:** [dwidwnbrahmaa222@gmail.com](mailto:dwidwnbrahmaa222@gmail.com)
 
 ## 😄 Fun Facts
-
 - I love to eat!
 
 Thanks for visiting my profile! 😊
