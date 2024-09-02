@@ -18,6 +18,14 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 
 ## 📂 Projects
 
+#### [Rock-Papper-Scissors]
+
+- A Classic Rock-Paper-Scissors Game.
+## [Link](https://dwidenbrahma.github.io/rockpapperscissor/)
+
+#### Technologies Used
+-React
+
 #### [Basic-React-Dictionary]
 
 - A simple React application that allows users to search for word definitions using the Dictionary API.
