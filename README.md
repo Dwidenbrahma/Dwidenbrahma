@@ -21,10 +21,10 @@ I'm **DWIDEN BRAHMA**, a passionate coder from **Kokrajhar, Assam**.
 #### [Rock-Papper-Scissors]
 
 - A Classic Rock-Paper-Scissors Game.
-## [Link](https://dwidenbrahma.github.io/rockpapperscissor/)
+## [Link](https://dwidenbrahma.github.io/rockpapperscissor/) Rock papper Scissor
 
 #### Technologies Used
--React
+# React, HTML, CSS.
 
 #### [Basic-React-Dictionary]
 
