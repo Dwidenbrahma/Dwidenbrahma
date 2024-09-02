@@ -6,7 +6,7 @@ I'm **Dwiden Brahma**, a passionate coder from **Kokrajhar, Assam**.
 - 💻 I love to code and explore new technologies!
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** C++, Python
+- **Programming Languages:** C++, Python, Java, JavaScript
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** React, Bootstrap, Flask
 - **Backend Development:** Node.js, Express.js, Flask
