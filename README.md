@@ -16,6 +16,8 @@ A passionate coder from **Kokrajhar, Assam**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- ![Dart](https://img.shields.io/badge/-Dart-00B4AB?style=flat&logo=dart&logoColor=white)
 
 ### **Web Development:**
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
@@ -37,7 +39,7 @@ A passionate coder from **Kokrajhar, Assam**
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
 
 ---
 
